@@ -16,5 +16,5 @@ def binary_search(array,x):
 			right = mid-1
 
 
-#this is a git test
+
 		
