@@ -16,9 +16,3 @@ def binary_search(array,x):
 			right = mid-1
 
 		
-
-
-array = [1,2,3,4,5,6,7]
-ch = 5
-id = binary_search(array,ch)
-print(id)
