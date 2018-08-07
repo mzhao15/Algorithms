@@ -14,12 +14,6 @@ def sort_insertion(array):
 	return array
 
 
-a = [13,3,8,-10,0,4,7,11]
-sorted_array = sort_insertion(a)
-if type(sorted_array)==int:
-	print('invalid item: {}'.format(sorted_array))
-else:
-	print(sorted_array)
 
 
 
